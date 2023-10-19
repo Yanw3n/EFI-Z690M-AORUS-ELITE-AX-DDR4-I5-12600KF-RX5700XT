@@ -6,7 +6,7 @@ macOS|Sonoma 14.0
 Motherboard|Gigabyte Z690M AORUS ELITE AX DDR4
 GPU|AMD RX 5700XT
 Processor|Intel® Core™ i5-12600KF
-NVME SSD|Fangxiang S790 2TB
+NVME SSD|Fanxiang S790 2TB
 RAM|2x VENGEANCE 16Gb 3600Mhz DDR4
 Wifi/Bluetooth | AX210 - Bluetooth 5.2 
 Ethernet | Intel® I225-V 2.5GbE LAN
